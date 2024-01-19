@@ -3,7 +3,7 @@ This is a decoder for a text script that spits out an output of a provided code
 
 Sample User Prompt:
 
-3 hate
+3 hate 
 6 school
 2 cats
 4 dogs
